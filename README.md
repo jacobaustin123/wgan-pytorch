@@ -5,7 +5,7 @@ This is a simple implementation of the Wasserstein GAN from Arjovsky et al,
 LSUN bedroom dataset and the MNIST digits dataset. Other datasets can be used
 with the --path flag. 
 
-![examples](samples/sample-1.png)
+![examples](samples/sample-all.png)
 
 ## Training
 
