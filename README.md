@@ -3,7 +3,7 @@
 This is a simple implementation of the Wasserstein GAN from Arjovsky et al,
 (https://arxiv.org/pdf/1701.07875.pdf). Pretrained weights are included for the
 LSUN bedroom dataset and the MNIST digits dataset. Other datasets can be used
-with the --path flag. 
+with the --path flag. Pre-trained weights are available in the models directory.
 
 ![examples](samples/sample-all.png)
 
